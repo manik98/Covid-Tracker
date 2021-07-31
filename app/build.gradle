@@ -47,9 +47,9 @@ dependencies {
     implementation "androidx.cardview:cardview:1.0.0"
     implementation 'androidx.recyclerview:recyclerview:1.1.0'
     implementation "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0"
-    implementation 'com.google.firebase:firebase-database:19.3.0'
+    /*implementation 'com.google.firebase:firebase-database:19.3.0'
     implementation 'com.google.firebase:firebase-config:19.1.4'
-    implementation 'com.google.firebse:firebase-analytics:17.4.3'
+    implementation 'com.google.firebse:firebase-analytics:17.4.3'*/
 
 
 }
